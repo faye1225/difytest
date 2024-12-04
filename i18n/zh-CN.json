@@ -1,0 +1,292 @@
+{
+  "navigation": {
+    "apps": "应用",
+    "signOut": "登出",
+    "prompts": "提示词",
+    "editProfile": "编辑个人资料",
+    "blog": "博客",
+    "profile": "个人资料",
+    "creditsAndBilling": "账户积分",
+    "notifications": "消息中心",
+    "curatorPanel": "管理面版",
+    "plans": "订阅信息",
+    "pricing": "付费",
+    "teams": "我的团队",
+    "articleCollections": "文章收藏",
+    "language": "语言",
+    "languageTip": "选择语言"
+  },
+  "upload": {
+    "processing": "处理中",
+    "saving": "保存中",
+    "extracting": "提取中",
+    "name": "上传",
+    "desc": "上传图像以生成",
+    "uploading": "上传中...",
+    "or": "- 或者 -",
+    "dropImageHere": "将图像拖放到此处",
+    "clickToUpload": "点击上传"
+  },
+  "auth": {
+    "signTitle": "登录您的账户",
+    "signupTitle": "注册您的账户",
+    "orContinueWith": "或者使用",
+    "email": "邮箱",
+    "password": "密码",
+    "signin": "登录",
+    "signup": "注册",
+    "resetPassword": "重置密码",
+    "resetPasswordSuccess": "检查您的邮箱以获取重置密码的链接。如果您在几分钟内没有出现，请检查您的垃圾邮件文件夹。",
+    "returnSignin": "返回登录",
+    "resetPasswordTip": "请输入您的用户帐户的已验证电子邮件地址以接收默认密码。",
+    "signinWithEmail": "使用邮箱登录",
+    "signinWithLink": "使用邮件登录",
+    "signinWithGoogle": "使用 Google 登录",
+    "noAccount": "没有账户？",
+    "haveAccount": "已经有账户？",
+    "passwordTip": "必须至少 8 个字符长，并包含字母和数字。",
+    "forgotPassword": "忘记密码？",
+    "upgradePlan": "升级计划",
+    "gotIt": "好的"
+  },
+  "btn": {
+    "backToHome": "返回首页",
+    "clearHistory": "清除历史",
+    "update": "更新",
+    "reset": "重置",
+    "copy": "复制消息",
+    "regenerate": "重新生成",
+    "stop": "停止生成",
+    "save": "保存",
+    "generate": "生成",
+    "generating": "生成中..",
+    "delete": "删除",
+    "deleteConfirm": "您确定要删除吗？",
+    "deleteConfirmDesc": "这将永久删除您的聊天历史记录，并从我们的服务器中删除您的数据。",
+    "submit": "提交",
+    "create": "创建",
+    "cancel": "取消",
+    "batchRemove": "批量删除",
+    "batchOperation": "批量操作"
+  },
+  "404": {
+    "title": "页面未找到",
+    "desc": "抱歉，我们找不到您要查找的页面。请检查 URL 并重试。"
+  },
+  "success": {
+    "copyShareLinkSuccess": "复制分享链接成功",
+    "addQuestionSuccessful": "添加问题成功"
+  },
+  "error": {
+    "copyShareLinkFailed": "复制分享链接失败",
+    "uploadFailed": "上传失败！请重试！",
+    "generationFailed": "生成失败",
+    "noQuestions": "当前测验中没有问题，请先添加问题",
+    "questionCannotBeEmpty": "问题不能为空",
+    "promptError": "输入包含不当内容，请重新描述。",
+    "prompt": "请输入提示词",
+    "uploadImage": "请先上传图像",
+    "useDesktop": "请使用桌面版在电脑上访问；移动端访问暂不支持。",
+    "emailVerification": "您的邮箱未验证。",
+    "missingEmail": "缺少邮箱",
+    "incorrectEmailOrPassword": "邮箱或密码错误",
+    "gmailNotAllowed": "请直接使用您的谷歌账户登录"
+  },
+  "chat": {
+    "gpt3": "来自 OpenAI 的基础模型",
+    "gpt4": "来自 OpenAI 的基础模型",
+    "gpt4mini": "GPT 4o mini 带有图像分析、Code Interpreter 和文件检索",
+    "mistralsmall": "低延迟、成本效益高的推理模型",
+    "gpt4o": "GPT 4o 带有图像分析、Code Interpreter 和文件检索",
+    "claude3sonnet": "来自 Anthropic 的平衡且经济的模型",
+    "claude3opus": "来自 Anthropic 的最智能模型",
+    "gemini": "来自 Google 的最智能模型",
+    "search": "搜索聊天标题",
+    "folder": {
+      "deleteDesc": "这将永久删除您的文件夹和所有聊天记录。",
+      "deleteTitle": "删除此文件夹？",
+      "deleteConfirm": "您确定要删除此文件夹吗？"
+    },
+    "deleteDesc": "这将永久删除您的聊天历史记录，并从我们的服务器中删除您的数据。",
+    "deleteTitle": "删除此记录？",
+    "shareTitle": "分享聊天链接",
+    "shareDesc": "任何人都可以通过 URL 查看共享的聊天。",
+    "moveOut": "移出文件夹",
+    "moveToFolder": "移动到此文件夹",
+    "newChat": "新聊天",
+    "prompt": "今天我能帮您做什么？",
+    "footer": "AI 可能会出错。请检查重要信息。",
+    "contextWindow": "上下文窗口",
+    "parameters": "参数",
+    "model": "模型",
+    "send": "发送消息",
+    "name": "LLM 聊天",
+    "desc": "与各种 LLM（GPT-o1, 4o, 4o-mini, Claude 3, Gemini Pro, Mistral等）互动"
+  },
+  "chatComparison": {
+    "name": "聊天比较",
+    "desc": "同时比较 LLM 聊天以评估性能"
+  },
+  "LLMBattle": {
+    "joinBattle": "加入战斗",
+    "status": "状态",
+    "creator": "创建者",
+    "createBattle": "创建战斗",
+    "chatArena": "聊天竞技场",
+    "leaderboard": "排行榜",
+    "battleHistory": "战斗历史",
+    "organization": "组织",
+    "evaluationCount": "评估次数",
+    "eloScore": "Elo 分数",
+    "time": "时间",
+    "winner": "胜者",
+    "answer": "答案",
+    "model": "模型",
+    "question": "问题",
+    "better": "模型 {{model}} 更好",
+    "noData": "没有数据",
+    "tie": "平局",
+    "name": "LLM 评估战斗",
+    "createName": "LLM 战斗名称",
+    "createNameTip": "输入战斗名称",
+    "selectModel": "选择模型",
+    "selectModelTip": "选择参与的模型",
+    "desc": "通过聊天战斗游戏设置评估 LLM 模型"
+  },
+  "dify": {
+    "name": "Dify 工作室",
+    "desc": "开发 LLM 代理、聊天机器人和工作流"
+  },
+  "autogen": {
+    "name": "Autogen 工作室",
+    "desc": "创建自主代理群聊以解决问题"
+  },
+  "sd": {
+    "generationResults": "生成结果",
+    "cfgScale": "CFG 比例",
+    "scheduler": "调度器",
+    "imageCount": "图像数量",
+    "width": "宽度",
+    "height": "高度",
+    "custom": "自定义",
+    "presetSizes": "预设尺寸",
+    "model": "模型",
+    "image": "图像",
+    "prompt": "提示词",
+    "negativePrompt": "负向提示词",
+    "negativePromptPlaceholder": "描述您不希望在图像中看到的内容",
+    "promptPlaceholder": "描述您的图像规格、细节和风格偏好",
+    "name": "Stable Diffusion (SD, SDXL, SD3)",
+    "desc": "从文本生成图像，使用各种 Stable Diffusion 模型",
+    "controlWeight": "控制权重",
+    "steps": "步数",
+    "seed": "种子",
+    "loraUrl": "Lora 链接"
+  },
+  "lora": {
+    "loraWeight": "Lora 权重",
+    "name": "SD with LoRA",
+    "desc": "LoRA 模型调整图像样式，以实现独特的艺术创作"
+  },
+  "controlnet": {
+    "name": "SD with ControlNets",
+    "desc": "ControlNets 添加了精确的控制选项，以增强图像生成"
+  },
+  "hiddenart": {
+    "image": "隐藏图像",
+    "text": "隐藏文本",
+    "name": "隐藏艺术",
+    "desc": "创建各种用途的隐藏文本视觉效果"
+  },
+  "dalle3": {
+    "style": "风格",
+    "name": "DALL·E 3",
+    "desc": "从文本描述生成图像，使用 OpenAI DALL·E 3"
+  },
+  "flux": {
+    "image": "图像",
+    "name": "Flux (Schnell, Dev, Pro)",
+    "desc": "从文本生成图像，使用各种 Flux 模型"
+  },
+  "questionGen": {
+    "noChatHistory": "没有聊天历史",
+    "newQuestions": "新问题",
+    "edit": "编辑",
+    "ignore": "忽略",
+    "verifyAccuracy": "验证准确性",
+    "questionType": "问题类型",
+    "difficultyLevel": "难度等级",
+    "file": "文件",
+    "fileTip": "上传文件（讲义、章节、文章等）",
+    "url": "链接",
+    "urlTip": "输入一个链接",
+    "text": "文本",
+    "textTip": "输入文本或主题",
+    "method": "问题生成方法",
+    "preset": "预设一个示例",
+    "required": "请指定您的问题要求：",
+    "tour": "查看教程",
+    "extracting": "正在提取...",
+    "errorExtract": "从源文本中提取时发生错误。请重试。",
+    "errorUpload": "请上传文件。",
+    "limit": "提取的内容超过了令牌限制 {{limit}}，仅使用前 {{limit}} 个令牌来生成问题。",
+    "correctAnswer": "正确答案",
+    "options": "选项",
+    "question": "问题",
+    "name": "问答生成器",
+    "explanation": "解释",
+    "desc": "从 PDF、URL 或文本创建问答，带有答案和解释",
+    "addNewOption": "添加新选项",
+    "fillBlankWithOptions": {
+      "tip": "输入您的问题，指定每个空白的位置。然后为每个空白定义可能的正确答案。学生必须将正确的答案输入到每个空白处的文本框中。",
+      "example": "点击查看示例",
+      "correctAnswer": "在下面的框中，每个您希望显示答案框的地方，输入一个参考单词（没有空格），用括号括起来（例如，玫瑰是 [颜色1]，紫罗兰是 [颜色2]）"
+    },
+    "fillInTheBlank": {
+      "tip": "输入您的问题文本，然后为空白定义所有可能的正确答案。学生将看到一个问题，然后是一个小文本框来输入他们的答案。",
+      "example": "点击查看示例"
+    },
+    "multipleChoice": {
+      "tip": "输入您的问题和多个答案，然后选择一个正确答案。"
+    },
+    "shortAnswer": {
+      "tip": "输入您的问题和多个答案，然后选择一个正确答案。"
+    },
+    "trueFalse": {
+      "tip": "输入您的问题文本，然后选择 True 或 False 是正确答案。"
+    }
+  },
+  "quizBuilder": {
+    "preview": "预览",
+    "quizName": "测验名称",
+    "description": "描述",
+    "edited": "编辑于",
+    "shared": "已共享",
+    "quizOriginal": "测验原题",
+    "quizVariations": "测验变题",
+    "changeQuizInfo": "修改测验信息",
+    "name": "测验生成器",
+    "desc": "从题库生成测验，并导出为不同格式（PDF、Word、QTI 等）"
+  },
+  "questionBank": {
+    "deleteConfirm": "您确定要删除此题库吗？",
+    "name": "题库",
+    "desc": "高效分类和保存问题，以便快速便捷访问",
+    "newCollection": "新题库",
+    "collectionName": "题库名称",
+    "description": "描述",
+    "optional": "(可选)",
+    "collectionNameEmpty": "题库名称不能为空",
+    "includeAnswerAndExplanation": "包含答案和解释",
+    "editInfo": "修改题库信息",
+    "addAll": "添加全部",
+    "add": "添加",
+    "goToQuestionBank": "前往题库"
+  },
+  "tools": {
+    "chat": "聊天",
+    "agent": "代理",
+    "image": "图像",
+    "academic": "学术"
+  }
+}

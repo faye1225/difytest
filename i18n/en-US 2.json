@@ -1,0 +1,347 @@
+{
+  "navigation": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "apps": "Apps",
+    "prompts": "Prompts",
+    "blog": "Blog",
+    "profile": "Profile",
+    "creditsAndBilling": "Credits and Billing",
+    "notifications": "Notifications",
+    "curatorPanel": "Curator Panel",
+    "plans": "Plans",
+    "pricing": "Pricing",
+    "teams": "Teams",
+    "editProfile": "Edit Profile",
+    "articleCollections": "Article Collections",
+    "language": "Language",
+    "languageTip": "Choose Language"
+  },
+  "app": {
+    "seeFullImage": "Click to see full image"
+  },
+  "index": {
+    "hero": {
+      "title": "Generative AI Education",
+      "subtitle": "Made Easy",
+      "desc": "Teach and Learn GenAI with One Single Account and Zero Setup",
+      "cta": "Get Started for Free",
+      "learnMore": "Learn More"
+    },
+    "apps": {
+      "title": "Generative AI Apps Tailored for Diverse Educational Needs",
+      "subtitle": "All-in-One Solution for GenAI Education with Flexible Team Management and Billing",
+      "cta": "Browse all apps"
+    },
+    "trustedBy": "Trusted by faculty and students at",
+    "compareLLMs": {
+      "title": "Leading LLMs Exploration and Evaluation",
+      "subtitle": "Explore and evaluate leading LLMs such as GPT 4, Claude 3, Gemini, Mistral, and Llama."
+    },
+    "agentChat": {
+      "title": "Autonomous Multi-Agent Systems",
+      "subtitle": "Create autonomous agents that can converse with each other to solve problems."
+    },
+    "promptLib": {
+      "title": "Systematic Prompt Engineering",
+      "subtitle": "Master prompt engineering via learning curated and formatted prompts for various business tasks."
+    },
+    "imagesSD": {
+      "title": "Image Generation via Dall-E and Stable Diffusion",
+      "subtitle": "Learn image generation with Dall-E, Stable Diffusion, ControlNet, and LoRA."
+    },
+    "difyAI": {
+      "title": "AI Agents and Agentic Workflows",
+      "subtitle": "Build AI agents with RAG and custom tools and compose various agentic workflows to solve business problems."
+    },
+    "educatorBenefits": "Get Free Educator Benefits",
+    "applyNow": "Apply Now"
+  },
+  "btn": {
+    "close": "Close",
+    "deleteConfirm": "Are you sure to delete this?",
+    "delete": "Delete",
+    "submit": "Submit",
+    "success": "Modified successfully",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "update": "Update",
+    "create": "Create",
+    "updatePrivate": "Update Private"
+  },
+  "billing": {
+    "totalCredits": "Total Credits",
+    "usageDetails": "Usage Details",
+    "seeAllPlan": "See All Plan",
+    "plan": "Current Plan",
+    "buyAdditionalCredits": "Buy Additional Credits",
+    "extraCredits": "Extra Credits",
+    "subscriptionHistory": "Subscription History",
+    "monthlyCredits": "Monthly Credits",
+    "includes": "Includes",
+    "date": "Date",
+    "cancelDate": "Cancel Date",
+    "success": "Payment successful",
+    "successTip": "Your payment has been successfully submitted. Your funds are on the way and are usually available within the minute!",
+    "confirm": "Got it, thanks!",
+    "spend": "Spend",
+    "status": "Status",
+    "subscriptionNeeded": "Subscription Needed",
+    "subscriptionNeededTip": "A subscription is required to top up credits",
+    "usageHistory": "Usage History",
+    "activity": "Activity",
+    "cost": "Cost",
+    "time": "Time",
+    "previous": "Previous",
+    "next": "Next",
+    "pagination": "Showing <bold>{{start}}</bold> to <bold>{{end}}</bold> of <bold>{{total}}</bold> results"
+  },
+  "upload": {
+    "whatDoYouWantToUpload": "What do you want to upload?",
+    "curationTeamWillReviewYourSubmission": "Our curation team will review your submission and get back to you soon.",
+    "createPrompt": "Create a Prompt",
+    "title": "Title",
+    "prompt": "Prompt",
+    "source": "Source",
+    "note": "Note",
+    "tags": "Tags",
+    "tagsTip": "Enter tags separated by spaces",
+    "public": "Public",
+    "publicTip": "View your private prompts on your profile",
+    "publicTip2": "Get 10 credits once approved",
+    "thanksForUploading": "Thanks for uploading!",
+    "checkJunkMail": "If you do not see the email in your inbox, please check your junk mail folder.",
+    "viewYourProfile": "View your profile",
+    "uploadAnotherOne": "Upload another one",
+    "viewSubmissions": "View Submissions",
+    "backToHome": "Back to home"
+  },
+  "error": {
+    "404Title": "No results found",
+    "404Content": "It seems we cannot find any results.",
+    "signIn": "Email or password is incorrect",
+    "email": "Please enter a valid email address.",
+    "verify": "Your email is unverified. We will resend a verification email, please check your mailbox.",
+    "password": "Must be at least 8 characters long and include letters and numbers.",
+    "oldPassword": "Old password isn't valid",
+    "team": "Please upgrade your plan to Team to experience this feature",
+    "upgrade": "Upgrade Account",
+    "missing": "Missing information",
+    "teamCredits": "Team owner account balance is insufficient.",
+    "gmailNotAllowed": "Please continue with your Google account"
+  },
+  "account": {
+    "educator": "Educator Benefits",
+    "educatorTip": "You have successfully activated your educator account. Below are the exclusive benefits associated with your account.",
+    "noAccount": "Do not have an account?",
+    "haveAccount": "Already have an account?",
+    "singInWithEmail": "Sign-in with email",
+    "singInWithLink": "Sign-in Link",
+    "or": "Or continue with",
+    "email": "Email address",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "signIn": "Sign in to your account",
+    "signUp": "Sign up for an account",
+    "resetPasswordTitle": "Reset your password",
+    "emailSend": {
+      "message": "Check your email for a link to reset your password. If you don’t appear within a few minutes, check your spam folder.",
+      "returnToSignIn": "Return to sign in"
+    },
+    "emailNotSent": {
+      "message": "Please enter your user account’s verified email address to receive a default password."
+    },
+    "collection": {
+      "add": "Add to Collection",
+      "namePlaceholder": "Enter collection name",
+      "change": "Change Collection Info",
+      "edit": "Edit Collection",
+      "create": "Create a Collection",
+      "name": "Name",
+      "description": "Description",
+      "title": "Collection"
+    }
+  },
+  "blog": {
+    "read": "Read article",
+    "seeMore": "Sign in to browse more",
+    "paidContent": "Continue reading this article with",
+    "paidContentSubscription": "a Takin subscription",
+    "subscribe": "Subscribe Now",
+    "haveSubscribe": "Already a subscriber?",
+    "free": "Please log in to view for free",
+    "title": "Blog",
+    "intro": "Empowering your creative journey in the era of Generative AI",
+    "discussions": {
+      "title": "Discussions",
+      "intro": "Interesting perspectives and opinions worth paying attention to"
+    },
+    "help": {
+      "title": "Help Center",
+      "intro": "Essential documents to overcome challenges and unlock solutions"
+    },
+    "research": {
+      "title": "Research",
+      "intro": "Papers shaping the landscape of Generative AI"
+    },
+    "tutorials": {
+      "title": "Tutorials",
+      "intro": "Carefully crafted tutorials for easy learning via replication"
+    },
+    "resources": {
+      "title": "Resources",
+      "intro": "Handpicked community resources to facilitate your learning journey"
+    },
+    "news": {
+      "title": "News",
+      "intro": "Read about updates, news and events about Takin.ai"
+    }
+  },
+  "search": {
+    "article": "Article Search",
+    "prompt": "Prompt Search",
+    "user": "User Search"
+  },
+  "team": {
+    "admin": "Admin",
+    "adminDesc": "Can transfer credits, invite members, delete members, and enjoy team account benefits.",
+    "member": "Member",
+    "memberDesc": "Can use credits from team transfers to enjoy team account benefits.",
+    "role": "Role",
+    "status": {
+      "joined": "Joined",
+      "invited": "Invited"
+    },
+    "noPeopleSelected": "Please select the user first",
+    "noPeopleFound": "No people found",
+    "removeMembersDesc": "Please confirm deletion of these members?",
+    "copyInviteLink": "Copy invite link",
+    "inviteLinkTip": "This invitation will expire in 7 days",
+    "invite": "Invite",
+    "invited": "Invited",
+    "transfer": "Transfer",
+    "teamCredits": "Team credits",
+    "batchTransfer": "Batch transfer",
+    "batchOperation": "Batch operation",
+    "selectedMembers": "Selected members",
+    "changeRole": "Change members role",
+    "createTeam": "Create team",
+    "teamName": "Team name",
+    "teamDescription": "Team description",
+    "teamMembers": "Team members",
+    "addMembers": "Add members",
+    "remove": "Remove",
+    "removeMembers": "Remove members",
+    "leaveTeam": "Leave team",
+    "deleteTeam": "Delete team",
+    "deleteTeamConfirm": "Please confirm deletion of the team.",
+    "leaveTeamConfirm": "Please confirm leave this team.",
+    "transferConfirm": "Confirm transfer",
+    "transferConfirmDesc": "Please confirm transfer of {{amounts}} credits to {{payee}} members.",
+    "transferConfirmDesc2": "Once transferred, you cannot undo."
+  },
+  "settings": {
+    "edit": "Edit profile",
+    "changeProfileImage": "Change profile image",
+    "changePassword": "Change password",
+    "oldPassword": "Old password",
+    "newPassword": "New password",
+    "setPassword": "Set Password",
+    "location": "Location",
+    "bio": "Bio",
+    "social": "Social",
+    "instagramUsername": "Instagram username",
+    "twitterUsername": "Twitter username"
+  },
+  "plan": {
+    "contactUs": "Contact Us",
+    "goToApps": "Current Plan: Go to Apps",
+    "upgrade": "Upgrade",
+    "getThisPlan": "Get this plan",
+    "downgradeConfirm": "Why do you want to downgrade?",
+    "downgradeConfirmDesc": "We'd love your input to Takin.ai better.",
+    "title": "Subscription Plan",
+    "cancelType": {
+      "Not easy to use": "Not easy to use",
+      "Too expensive": "Too expensive",
+      "Only needed for a short period": "Only needed for a short period",
+      "Use other tools/services instead": "Use other tools/services instead",
+      "Not enough features": "Not enough features",
+      "Other": "Other"
+    },
+    "frequencies": {
+      "monthly": "Monthly",
+      "annually": "Annually"
+    },
+    "trial": {
+      "name": "Trial",
+      "price": "Free",
+      "description": "Everything necessary to get started.",
+      "features": [
+        "50 credits",
+        "50M disk space",
+        "Multiple LLMs access (GPT4, Claude3, Gemini Pro ...)",
+        "Max file upload size limit (10 MB)",
+        "No credit top ups",
+        "Community Forum Support"
+      ]
+    },
+    "professional": {
+      "name": "Professional",
+      "price": "10",
+      "description": "Everything in Trial, plus features for GenAI professionals.",
+      "features": [
+        "1K credits",
+        "1G disk space",
+        "Large file upload (up to 50 MB)",
+        "Optional credit top ups",
+        "Email support"
+      ]
+    },
+    "team": {
+      "name": "Team",
+      "price": "30",
+      "description": "Everything in Professional, plus advanced features designed for team collaboration and billing.",
+      "features": [
+        "3K credits",
+        "10G team disk space",
+        "Optional credit top ups",
+        "Flexible team management and billing",
+        "Credits transfer among team members",
+        "Premium help center support"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Custom",
+      "description": "Everything included in Team, plus a custom solution to enhance GenAI education in your organizations.",
+      "features": [
+        "Custom learning materials and workshops",
+        "Online and offline training sessions",
+        "Custom billing and invoicing",
+        "Premium support with dedicated account managers"
+      ]
+    },
+    "creditsResetPolicy": "Credits included in subscriptions reset and replenish at the beginning of each billing month. ",
+    "purchasedCreditsPolicy": "Purchased top up credits do not expire, but require an active subscription to use.",
+    "emailSupport": "Email us at",
+    "supportEmail": "support@takin.ai",
+    "questions": "with any questions."
+  },
+  "prompts": {
+    "title": "Prompt Library",
+    "desc": "Curated Prompts for Various Tasks",
+    "copy": "Copy Prompt",
+    "info": "Additional Info",
+    "time": "Publish Time",
+    "license": "License"
+  },
+  "footerLinks": {
+    "about": "about",
+    "license": "license",
+    "terms": "terms",
+    "privacy": "privacy"
+  }
+}

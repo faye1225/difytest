@@ -1,0 +1,295 @@
+{
+  "navigation": {
+    "signOut": "Sign Out",
+    "apps": "Apps",
+    "prompts": "Prompts",
+    "blog": "Blog",
+    "profile": "Profile",
+    "creditsAndBilling": "Credits and Billing",
+    "notifications": "Notifications",
+    "curatorPanel": "Curator Panel",
+    "plans": "Plans",
+    "pricing": "Pricing",
+    "teams": "Teams",
+    "editProfile": "Edit Profile",
+    "articleCollections": "Article Collections",
+    "language": "Language",
+    "languageTip": "Choose Language"
+  },
+  "upload": {
+    "processing": "Processing",
+    "saving": "Saving",
+    "extracting": "Extracting",
+    "name": "Upload",
+    "desc": "Upload images to generate",
+    "uploading": "Uploading...",
+    "or": "- or -",
+    "dropImageHere": "Drop Image Here",
+    "clickToUpload": "Click to Upload"
+  },
+  "auth": {
+    "signTitle": "Sign In to your account",
+    "signupTitle": "Sign Up to your account",
+    "orContinueWith": "Or continue with",
+    "email": "Email address",
+    "password": "Password",
+    "signin": "Sign In",
+    "signup": "Sign Up",
+    "resetPassword": "Reset your password",
+    "resetPasswordSuccess": "Check your email for a reset password link. If you don't see it in a few minutes, check your spam folder.",
+    "returnSignin": "Return to Sign In",
+    "resetPasswordTip": "Please enter your user account's verified email address to receive a default password.",
+    "signinWithEmail": "Sign-in with Email",
+    "signinWithLink": "Sign-in Link",
+    "signinWithGoogle": "Sign-in with Google",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "passwordTip": "Must be at least 8 characters long and include letters and numbers.",
+    "forgotPassword": "Forgot password?",
+    "upgradePlan": "Upgrade Plan",
+    "gotIt": "Got it"
+  },
+  "btn": {
+    "backToHome": "Back to home",
+    "clearHistory": "Clear History",
+    "update": "Update",
+    "reset": "Reset",
+    "copy": "Copy message",
+    "regenerate": "Regenerate response",
+    "stop": "Stop Generation",
+    "save": "Save",
+    "generate": "Generate",
+    "generating": "Generating..",
+    "delete": "Delete",
+    "deleteConfirm": "Are you sure to delete this?",
+    "deleteConfirmDesc": "This will permanently delete your chat history and remove your data from our servers.",
+    "submit": "Submit",
+    "create": "Create",
+    "cancel": "Cancel",
+    "batchRemove": "Batch Remove",
+    "batchOperation": "Batch Operation"
+  },
+  "404": {
+    "title": "Page not found",
+    "desc": "Sorry, we couldn’t find the page you’re looking for. Please check the URL and try again."
+  },
+  "success": {
+    "addQuestionSuccessful": "Add question successful",
+    "copyShareLinkSuccess": "Copy share link success"
+  },
+  "error": {
+    "copyShareLinkFailed": "Failed to copy share link",
+    "uploadFailed": "Upload failed! Please try again!",
+    "generationFailed": "Generation Failed",
+    "noQuestions": "There are no questions in the current exam, please add questions first",
+    "questionCannotBeEmpty": "Question cannot be empty",
+    "promptError": "This input contains inappropriate content, please repharse.",
+    "prompt": "Please enter prompt",
+    "uploadImage": "Please upload an image before generating",
+    "useDesktop": "Please use the desktop version on a computer; mobile access is not supported at the moment.",
+    "emailVerification": "Your email is not verified.",
+    "missingEmail": "Missing email",
+    "incorrectEmailOrPassword": "Email or password is incorrect",
+    "gmailNotAllowed": "Please continue with your Google account"
+  },
+  "chat": {
+    "gpt3": "Basic model from OpenAI",
+    "gpt4": "Basic model from OpenAI",
+    "gpt4mini": "GPT 4o mini with Image analytics, Code Interpreter, and File Retrieval",
+    "gpt4o": "GPT 4o with Image analytics, Code Interpreter, and File Retrieval",
+    "claude3sonnet": "Balanced and affordable model from Anthropic",
+    "mistralsmall": "Low-latency, cost-efficient reasoning model",
+    "claude3opus": "Most intelligent model from Anthropic",
+    "gemini": "Most intelligent model from Google",
+    "search": "Search Chat Title",
+    "folder": {
+      "deleteDesc": "This will permanently delete your folder and all chat records it contains.",
+      "deleteTitle": "Delete this folder?",
+      "deleteConfirm": "Are you sure to delete this folder?"
+    },
+    "delete": "Delete",
+    "deleteDesc": "This will permanently delete your chat history and remove your data from our servers.",
+    "deleteTitle": "Delete this record?",
+    "shareTitle": "Share link to chat",
+    "shareDesc": "Anyone with the URL will be able to view the shared chat.",
+    "moveOut": "Move out of folders",
+    "moveToFolder": "Move To This Folder",
+    "newChat": "New Chat",
+    "prompt": "How can I help you today?",
+    "footer": "AI can make mistakes. Consider checking important information.",
+    "contextWindow": "Context Window",
+    "parameters": "Parameters",
+    "model": "Model",
+    "send": "Send message",
+    "name": "LLM Chat",
+    "desc": "Interact with various LLMs (GPT-o1, 4o, 4o-mini, Claude 3, Gemini Pro, Mistral, etc.)"
+  },
+  "chatComparison": {
+    "name": "Chat Comparison",
+    "desc": "Compare LLM chats simultaneously to evaluate performance"
+  },
+  "LLMBattle": {
+    "joinBattle": "Join Battle",
+    "status": "Status",
+    "creator": "Creator",
+    "createBattle": "Create Battle",
+    "chatArena": "Chat Arena",
+    "leaderboard": "Leaderboard",
+    "battleHistory": "Battle History",
+    "organization": "Organization",
+    "evaluationCount": "Evaluation Count",
+    "eloScore": "Elo Score",
+    "time": "Time",
+    "winner": "Winner",
+    "answer": "Answer",
+    "model": "Model",
+    "question": "Question",
+    "better": "Model {{model}} is better",
+    "noData": "No Data",
+    "tie": "Tie",
+    "name": "LLM Evaluation Battle",
+    "createName": "LLM Battle Name",
+    "createNameTip": "Input Battle Name",
+    "selectModel": "Select Model",
+    "selectModelTip": "Choose the model to participate in",
+    "desc": "Evaluate LLM models via Elo ratings in a chat-battle game setting"
+  },
+  "dify": {
+    "name": "Dify Studio",
+    "desc": "Develop LLM agents, chatbots, and workflows"
+  },
+  "autogen": {
+    "name": "Autogen Studio",
+    "desc": "Create autonomous agent group chats to solve problems"
+  },
+  "sd": {
+    "generationResults": "Generation Results",
+    "cfgScale": "CFG Scale",
+    "scheduler": "Scheduler",
+    "imageCount": "Image Count",
+    "width": "Width",
+    "height": "Height",
+    "custom": "Custom",
+    "presetSizes": "Preset Sizes",
+    "model": "Model",
+    "image": "Image",
+    "prompt": "Prompt",
+    "negativePrompt": "Negative Prompt",
+    "negativePromptPlaceholder": "Describe what you don't want to see in the image",
+    "promptPlaceholder": "Describe your desired image specifications, details, and style preferences",
+    "name": "Stable Diffusion (SD, SDXL, SD3)",
+    "desc": "Generate images from texts using various Stable Diffusion models",
+    "controlWeight": "Control Weight",
+    "steps": "Steps",
+    "seed": "Seed",
+    "loraUrl": "Lora Url"
+  },
+  "lora": {
+    "loraWeight": "Lora Weight",
+    "name": "SD with LoRA",
+    "desc": "LoRA models adjust image styles to enable unique artistic creations"
+  },
+  "controlnet": {
+    "name": "SD with ControlNets",
+    "desc": "ControlNets add precise control options for enhanced image generation"
+  },
+  "hiddenart": {
+    "image": "Hidden Image",
+    "text": "Hidden Text",
+    "name": "Hidden Art",
+    "desc": "Create visuals with hidden texts for various uses"
+  },
+  "dalle3": {
+    "style": "Style",
+    "name": "DALL·E 3",
+    "desc": "Generate images from text descriptions using OpenAI DALL·E 3"
+  },
+  "flux": {
+    "image": "Flux Dev Image",
+    "name": "Flux (Schnell, Dev, Pro)",
+    "desc": "Generate images from texts from various Flux models"
+  },
+  "questionGen": {
+    "noChatHistory": "No chat history",
+    "newQuestions": "New Questions",
+    "edit": "Edit",
+    "ignore": "Ignore",
+    "verifyAccuracy": "Verify Accuracy",
+    "questionType": "Question Type",
+    "difficultyLevel": "Difficulty Level",
+    "file": "File",
+    "fileTip": "Upload a file (lecture notes, book chapter, article, etc.)",
+    "url": "Url",
+    "urlTip": "Enter a URL",
+    "text": "Text",
+    "textTip": "Enter text or topics manually",
+    "method": "Question Generation Method",
+    "preset": "Preset An Example",
+    "required": "Please specify your question requirements:",
+    "tour": "Take the Tour",
+    "extracting": "Extracting...",
+    "errorExtract": "An error occurred while extracting text from the source. Please try again.",
+    "errorUpload": "Please upload a file.",
+    "limit": "The extracted content exceeds the token limit of {{limit}}, only the first {{limit}} tokens are used to generate questions.",
+    "correctAnswer": "Correct Answer",
+    "options": "Options",
+    "question": "Question",
+    "explanation": "Explanation",
+    "addNewOption": "Add a New Option",
+    "name": "Question Generator",
+    "desc": "Create Q&A from PDFs, URLs, or text, with answers and explanations",
+    "example": "Click to see example",
+    "fillBlankWithOptions": {
+      "tip": "Enter your question, specifying where each blank should go. Then define the possible correct answer for each blank. Students must select correct answers into text boxes at each blank.",
+      "correctAnswer": "In the box below, every place you want to show an answer box, type a reference word (no spaces) surrounded by brackets (i.e. Roses are [color1], violets are [color2])"
+    },
+    "fillInTheBlank": {
+      "tip": "Enter your question text, then define all possible correct answers for the blank. Students will see the question followed by a small text box to type their answer."
+    },
+    "multipleChoice": {
+      "tip": "Enter your question and multiple answers, then select the one correct answer."
+    },
+    "shortAnswer": {
+      "tip": "Enter your question and multiple answers, then select the one correct answer."
+    },
+    "trueFalse": {
+      "tip": "Enter your question text, then select if True or False is the correct answer."
+    }
+  },
+  "quizBuilder": {
+    "title": "Title",
+    "preview": "Preview",
+    "quizName": "Quiz Name",
+    "description": "Description",
+    "edited": "Edited",
+    "shared": "Shared",
+    "name": "Quiz Builder",
+    "quizOriginal": "Quiz Original",
+    "quizVariations": "Quiz Variations",
+    "changeQuizInfo": "Change Quiz Info",
+    "desc": "Build quizzes from question banks and export as different formats (PDF, Word, QTI, etc.)"
+  },
+  "questionBank": {
+    "deleteConfirm": "Are you sure you want to delete this question bank?",
+    "name": "Question Bank",
+    "desc": "Efficiently categorize and save questions for quick, convenient access.",
+    "newCollection": "New Question Collection",
+    "collectionName": "Collection Name",
+    "description": "Description",
+    "optional": "(optional)",
+    "collectionNameEmpty": "Collection name cannot be empty",
+    "includeAnswerAndExplanation": "Include answer and explanation",
+    "collectionNameTip": "Enter the name of the question bank.",
+    "descriptionTip": "Enter a description of the question bank.",
+    "editInfo": "Change Question Bank Info",
+    "addAll": "Add All",
+    "add": "Add",
+    "goToQuestionBank": "Go to Question Bank"
+  },
+  "tools": {
+    "chat": "chat",
+    "agent": "agent",
+    "image": "image",
+    "academic": "academic"
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "navigation": {
+    "signIn": "登录",
+    "signUp": "注册",
+    "apps": "应用",
+    "signOut": "登出",
+    "prompts": "提示词",
+    "editProfile": "编辑个人资料",
+    "blog": "博客",
+    "profile": "个人资料",
+    "creditsAndBilling": "账户积分",
+    "notifications": "消息中心",
+    "curatorPanel": "管理面版",
+    "plans": "订阅计划",
+    "pricing": "定价与购买",
+    "teams": "我的团队",
+    "articleCollections": "文章收藏",
+    "language": "语言",
+    "languageTip": "选择语言"
+  },
+  "app": {
+    "seeFullImage": "点击查看完整图片"
+  },
+  "index": {
+    "hero": {
+      "title": "生成式人工智能使教育",
+      "subtitle": "变得简单",
+      "desc": "一个账号，无需配置，轻松教授和学习生成式 AI",
+      "cta": "免费开始",
+      "learnMore": "了解更多"
+    },
+    "apps": {
+      "title": "针对多样化教育需求的生成式 AI 应用",
+      "subtitle": "灵活的团队管理和计费，一站式解决生成式 AI 教育方案",
+      "cta": "浏览所有应用"
+    },
+    "trustedBy": "深受各个高校的信赖",
+    "compareLLMs": {
+      "title": "前沿的大型语言模型探索与评估",
+      "subtitle": "探索和评估前沿的大型语言模型，如 GPT 4、Claude 3、Gemini、Mistral 和 Llama。"
+    },
+    "agentChat": {
+      "title": "多智能体系统",
+      "subtitle": "创建能够相互对话以解决问题的自主智能体。"
+    },
+    "promptLib": {
+      "title": "系统化提示工程",
+      "subtitle": "通过学习精心设计和格式化的提示，掌握提示工程，适用于各种商业任务。" 
+    },
+    "imagesSD": {
+      "title": "通过 Dall-E 和 Stable Difussion 进行图像生成",
+      "subtitle": "学习使用 Dall-E、Stable Difussion、ControlNet 和 LoRA 进行图像生成。" 
+    },
+    "difyAI": {
+      "title": "AI 智能体和智能工作流",
+      "subtitle": "构建具有 RAG 和自定义工具的 AI 智能体，并组合各种智能工作流以解决商业问题。"
+    },
+    "educatorBenefits": "获取免费教师福利",
+    "applyNow": "立即申请"
+  },
+  "btn": {
+    "close": "关闭",
+    "deleteConfirm": "确定删除吗？",
+    "delete": "删除",
+    "submit": "提交",
+    "success": "修改成功",
+    "save": "保存",
+    "cancel": "取消",
+    "confirm": "确认",
+    "update": "更新",
+    "create": "创建",
+    "updatePrivate": "更新为私有"
+  },
+  "billing": {
+    "totalCredits": "总积分",
+    "usageDetails": "使用详情",
+    "seeAllPlan": "查看所有订阅计划",
+    "plan": "当前订阅计划",
+    "extraCredits": "额外积分",
+    "monthlyCredits": "每月积分",
+    "includes": "包含",
+    "subscriptionHistory": "订阅历史",
+    "buyAdditionalCredits": "购买额外积分",
+    "cancelDate": "取消日期",
+    "date": "日期",
+    "success": "支付成功",
+    "successTip": "您的支付已成功提交。您的积分充值正在处理，通常在几分钟内即可使用！",
+    "confirm": "好的，谢谢！",
+    "spend": "花费",
+    "status": "状态",
+    "subscriptionNeeded": "需要订阅",
+    "subscriptionNeededTip": "需要订阅才能充值积分",
+    "usageHistory": "使用历史",
+    "activity": "活动",
+    "cost": "花费",
+    "time": "时间",
+    "previous": "上一页",
+    "next": "下一页",
+    "pagination": "显示 <bold>{{start}}</bold> 到 <bold>{{end}}</bold> 的 <bold>{{total}}</bold> 个结果"
+  },
+  "upload": {
+    "whatDoYouWantToUpload": "您想上传什么？",
+    "curationReview": "我们的团队将审查您的提交，并很快与您联系。",
+    "createPrompt": "创建提示词",
+    "title": "标题",
+    "prompt": "提示词",
+    "source": "来源",
+    "note": "备注",
+    "tags": "标签",
+    "tagsTip": "输入标签，用空格分隔",
+    "public": "公开",
+    "publicTip": "查看您的私有提示词在您的个人资料中",
+    "publicTip2": "通过后可以获取10个积分",
+    "thanksForUploading": "感谢您的上传！",
+    "checkJunkMail": "如果未在收件箱中看到邮件，请检查您的垃圾邮件文件夹。",
+    "viewYourProfile": "查看您的个人资料",
+    "uploadAnotherOne": "上传另一个",
+    "viewSubmissions": "查看提交",
+    "backToHome": "返回首页"
+  },
+  "error": {
+    "404Title": "没有结果",
+    "404Content": "我们没有找到相关的结果",
+    "signIn": "邮箱或密码错误",
+    "email": "请输入正确的邮箱",
+    "password": "长度必须至少为 8 个字符，包括字母和数字",
+    "verify": "您的电子邮件未经验证。我们将重新发送一封验证邮件，请查看您的邮箱。",
+    "oldPassword": "旧密码不正确",
+    "team": "请升级您的计划为团队版以体验此功能",
+    "upgrade": "账户升级",
+    "missing": "缺少信息",
+    "teamCredits": "团队所有者账户积分余额不足",
+    "gmailNotAllowed": "请直接使用您的谷歌账户登录"
+  },
+  "account": {
+    "educator": "教师福利",
+    "educatorTip": "您已成功激活您的教师账户。以下是与您的账户相关的独家福利。",
+    "noAccount": "没有账号？",
+    "haveAccount": "已有账号？",
+    "singInWithEmail": "使用邮箱密码登录",
+    "singInWithLink": "使用邮件验证登录",
+    "or": "其他登录方式",
+    "email": "邮箱账号",
+    "password": "密码",
+    "forgotPassword": "忘记密码？",
+    "signUp": "注册账号",
+    "signIn": "登录您的账户",
+    "resetPasswordTitle": "重置密码",
+    "emailSend": {
+      "message": "检查你的电子邮件是否有重置密码的链接。如果几分钟内没有出现，请检查您的垃圾邮箱。",
+      "returnToSignIn": "返回登录"
+    },
+    "emailNotSent": {
+      "message": "请输入您账户的验证电子邮件地址以接收默认密码。"
+    },
+    "createCollection": "创建一个集合",
+    "name": "名称",
+    "description": "描述",
+    "collection": {
+      "add": "添加到集合",
+      "namePlaceholder": "输入集合名称",
+      "change": "修改集合信息",
+      "edit": "编辑集合",
+      "create": "创建一个集合",
+      "title": "集合",
+      "name": "名称",
+      "description": "描述"
+    }
+  },
+  "blog": {
+    "read": "阅读文章",
+    "seeMore": "登录以浏览更多",
+    "paidContent": "如需继续阅读",
+    "paidContentSubscription": "请订阅 Takin",
+    "Subscribe": "立即订阅",
+    "haveSubscribe": "已经订阅了？",
+    "free": "登录后即可继续阅读",
+    "title": "博客",
+    "intro": "在生成式 AI 时代赋能您的创意之旅",
+    "discussions": {
+      "title": "讨论",
+      "intro": "值得关注的有趣观点"
+    },
+    "help": {
+      "title": "帮助",
+      "intro": "克服挑战并解锁解决方案的必备文档"
+    },
+    "research": {
+      "title": "研究",
+      "intro": "塑造生成式AI领域的学术论文"
+    },
+    "tutorials": {
+      "title": "教程",
+      "intro": "精心制作的教程，通过复现轻松学习"
+    },
+    "resources": {
+      "title": "资源",
+      "intro": "精选社区资源，助力您的学习之旅"
+    },
+    "news": {
+      "title": "新闻",
+      "intro": "有关 Takin.ai 的更新、新闻和事件"
+    }
+  },
+  "search": {
+    "article": "文章搜索",
+    "prompt": "提示词搜索",
+    "user": "用户搜索"
+  },
+  "settings": {
+    "edit": "编辑个人资料",
+    "changeProfileImage": "更换头像",
+    "changePassword": "修改密码",
+    "oldPassword": "旧密码",
+    "newPassword": "新密码",
+    "oldPasswordError": "旧密码不正确",
+    "setPassword": "设置密码",
+    "location": "位置",
+    "bio": "个人简介",
+    "social": "社交媒体",
+    "instagramUsername": "Instagram 用户名",
+    "twitterUsername": "Twitter 用户名"
+  },
+  "footerLinks": {
+    "about": "关于",
+    "license": "许可证",
+    "terms": "条款",
+    "privacy": "隐私"
+  },
+  "team": {
+    "admin": "管理员",
+    "adminDesc": "可以转积分，邀请成员，删除成员，并享受团队账户的特权。",
+    "member": "成员",
+    "memberDesc": "可使用团队转移的积分，享受团队账户福利。",
+    "role": "角色",
+    "inviteLinkTip": "该邀请链接有效期是7天",
+    "status": {
+      "joined": "已加入",
+      "invited": "已邀请"
+    },
+    "noPeopleSelected": "请先选择用户",
+    "addMoreCredits": "添加更多积分",
+    "noPeopleFound": "没有找到任何成员",
+    "removeMembersDesc": "请确认是否删除这些成员？",
+    "copyInviteLink": "复制邀请链接",
+    "invite": "邀请",
+    "invited": "已邀请",
+    "transfer": "转积分",
+    "teamCredits": "团队积分",
+    "batchTransfer": "批量转积分",
+    "batchOperation": "批量操作",
+    "selectedMembers": "已选择成员",
+    "changeRole": "更改成员角色",
+    "createTeam": "创建团队",
+    "teamName": "团队名称",
+    "teamDescription": "团队描述",
+    "teamMembers": "团队成员",
+    "addMembers": "添加成员",
+    "removeMembers": "移除成员",
+    "leaveTeam": "离开团队",
+    "deleteTeam": "删除团队",
+    "deleteTeamConfirm": "请确认删除团队。",
+    "leaveTeamConfirm": "请确认离开团队。",
+    "transferConfirm": "请确认转账",
+    "transferConfirmDesc": "请确认将 {{amounts}} 积分转给 {{payee}} 个成员。",
+    "transferConfirmDesc2": "积分一旦转出，您将无法撤销。"
+  },
+  "plan": {
+    "contactUs": "联系我们",
+    "goToApps": "当前计划：前往应用",
+    "upgrade": "升级",
+    "getThisPlan": "获取此计划",
+    "downgradeConfirm": "为什么您想降级？",
+    "downgradeConfirmDesc": "我们想听听您的反馈，以便更好地改进 Takin.ai。",
+    "title": "订阅计划",
+    "cancelType": {
+      "Not easy to use": "不容易使用",
+      "Too expensive": "太贵",
+      "Only needed for a short period": "仅需短期内使用",
+      "Use other tools/services instead": "改用其他工具/服务",
+      "Not enough features": "功能不够",
+      "Other": "其他"
+    },
+    "frequencies": {
+      "monthly": "每月",
+      "annually": "每年"
+    },
+    "trial": {
+      "name": "试用版",
+      "price": "免费",
+      "description": "开始所需的一切。", 
+      "features": [
+        "50个积分",
+        "50M磁盘空间",
+        "访问多个LLM（GPT4，Claude3，Gemini Pro...）",
+        "最大文件上传大小限制（10 MB）",
+        "不支持积分充值",
+        "社区论坛支持"
+      ]
+    },
+    "professional": {
+      "name": "专业版",
+      "price": "10",
+      "description": "包含试用版的所有功能，另外增加了面向GenAI专业人士的功能。",
+      "features": [
+        "1K积分",
+        "1G磁盘空间",
+        "大文件上传（最大100 MB）",
+        "可选积分充值",
+        "邮件支持"
+      ]
+    },
+    "team": {
+      "name": "团队版",
+      "price": "30",
+      "description": "包含专业版的所有功能，另外增加了团队协作和计费设计的高级功能。",
+      "features": [
+        "3K积分",
+        "10G团队磁盘空间",
+        "可选积分充值",
+        "灵活的团队管理和计费",
+        "团队成员间的积分转移",
+        "高级帮助中心支持"
+      ]
+    },
+    "enterprise": {
+      "name": "企业版",
+      "price": "定制",
+      "description": "包含团队版的所有内容，并为您的组织提供定制化生成式 AI 教育解决方案。",
+      "features": [
+        "定制学习材料和研讨会",
+        "在线和离线培训课程",
+        "定制计费和发票",
+        "专属客户经理的高级支持"
+      ]
+    },
+    "creditsResetPolicy": "订阅套餐中包含的积分将在每个计费月初重置为对应的额度。",
+    "purchasedCreditsPolicy": "购买的积分不会过期，但需要有效订阅计划才能使用。",
+    "emailSupport": "如果有任何的问题，请联系我们",
+    "supportEmail": "support@takin.ai",
+    "questions": ""
+  },
+  "prompts": {
+    "title": "提示词库",
+    "desc": "针对各种任务的精选提示词",
+    "copy": "复制提示词",
+    "info": "额外信息",
+    "time": "发布时间",
+    "license": "许可证"
+  }
+}
